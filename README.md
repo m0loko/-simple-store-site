@@ -1,1 +1,1 @@
-# -simple-store-site
+# simple-store-site
